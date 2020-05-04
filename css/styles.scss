@@ -74,3 +74,17 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+.modal-header {
+    background: $background-dark;
+    color: #fffaf0;
+    .close{
+        color:#fffaf0;
+
+    }
+
+}
+
+.modal-body{
+    background:$background-pale;
+}
